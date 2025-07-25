@@ -12,3 +12,9 @@
 **5 = Boosted Servers, Guaranteed High Risk, Or Maybe Even Enhanced**
 
 **6 = Crazy Boost, This Is Pretty Rare, Guaranteed Enhanced Risk**
+
+### BannedNames Info:
+**Self Explanatory, But If You Type This Name In Your User Will Get Set To "BADAPE"**
+### Version Code:
+**So The Game Could Check What Version Is Newest, And It Will Compare With The Version You Are In, And If They Match You Are Good To Play, If They Don't Match It Will Tell You To Update Your Game**
+Thats All For Now
