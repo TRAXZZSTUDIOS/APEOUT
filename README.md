@@ -15,6 +15,8 @@
 
 ### BannedNames Info:
 **Self Explanatory, But If You Type This Name In Your User Will Get Set To "BADAPE"**
+
+**Credits To Glitch Cat For Most Of The Banned Names (I just added on a little bit)**
 ### Version Code:
 **So The Game Could Check What Version Is Newest, And It Will Compare With The Version You Are In, And If They Match You Are Good To Play, If They Don't Match It Will Tell You To Update Your Game**
 Thats All For Now
