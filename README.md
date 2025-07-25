@@ -2,8 +2,13 @@
 ## This page is for ape out stuff to make the game to function correctly!
 ### Boosted Meanings:
 **1 = Risk Will Be Worst Then Normal | Lowered**
+
 **2 = Risk Was Slighty Lowered Then Normally But Isn't As Bad As 1**
+
 **3 = Normal Risk, This Has Somewhat Good Risks But Is What Is Normally On**
+
 **4 = Small Boost, Risk Is Usually High**
+
 **5 = Boosted Servers, Guaranteed High Risk, Or Maybe Even Enhanced**
+
 **6 = Crazy Boost, This Is Pretty Rare, Guaranteed Enhanced Risk**
