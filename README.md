@@ -20,3 +20,11 @@
 ### Version Code:
 **So The Game Could Check What Version Is Newest, And It Will Compare With The Version You Are In, And If They Match You Are Good To Play, If They Don't Match It Will Tell You To Update Your Game**
 Thats All For Now
+### Don't Minds This
+**Helps With MOTD**
+<size=23>1 = 23
+<size=20>2 = 20
+<size=19>3 = 19
+<size=17>4 = 17
+<size=15>5 = 15
+<size=13>6 = 13
