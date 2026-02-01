@@ -13,6 +13,14 @@
 
 **6 = Crazy Boost, This Is Pretty Rare, Guaranteed Enhanced Risk**
 
+### Revamped Boost Meanings
+**Line 1 = Risk**
+**Line 2 = Lapse Rate**
+**Line 3 = Dew Point**
+**Line 4 = Cape**
+**Line 5 = Wind Shear**
+**Line 6 = Relative Humidity**
+
 ### BannedNames Info:
 **Self Explanatory, But If You Type This Name In Your User Will Get Set To "BADAPE"**
 
