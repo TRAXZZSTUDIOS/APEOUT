@@ -41,3 +41,7 @@ Thats All For Now
 <size=17>4 = 17
 <size=15>5 = 15
 <size=13>6 = 13
+### Helps Boosts
+Off
+0.9
+
